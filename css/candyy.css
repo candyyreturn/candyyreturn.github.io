@@ -58,4 +58,34 @@ body {
 
 .audiov audio {
     width: 80vw;
+    background-color: #800000;
+}
+
+h1 {
+    color: white;
+}
+
+.bkcl {
+    background: url(../img/013.gif);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10%;
+
+    height: auto;
+    width: auto;
+    color: rgb(141, 22, 22);
+    margin-bottom: 30px;
+    margin-left: 10px;
+
+    text-shadow: 0 0 2px #FF0000, 0 0 4px #FF0000, 0 0 6px #FF0000, 0 0 8px #FF0000, 0 0 10px #FF0000, 0 0 12px #FF0000, 0 0 14px #FF0000, 0 0 16px #FF0000, 0 0 18px #FF0000;
+}
+
+@media screen and (max-width: 678px) {
+    .bkcl {
+        font-size: 18px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
 }
