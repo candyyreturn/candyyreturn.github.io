@@ -49,3 +49,13 @@ body {
     width: 100%;
 }
 
+.audiov p {
+    font-size: 18px;
+    color: white;
+    margin: 30px 10px;
+    text-align: center;
+}
+
+.audiov audio {
+    width: 80vw;
+}
