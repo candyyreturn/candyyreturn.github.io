@@ -63,6 +63,7 @@ body {
 
 h1 {
     color: white;
+    font-size: 25px;
 }
 
 .bkcl {
@@ -77,6 +78,7 @@ h1 {
     margin-bottom: 30px;
     margin-left: 10px;
 
+    font-size: 19px;
     text-shadow: 0 0 2px #FF0000, 0 0 4px #FF0000, 0 0 6px #FF0000, 0 0 8px #FF0000, 0 0 10px #FF0000, 0 0 12px #FF0000, 0 0 14px #FF0000, 0 0 16px #FF0000, 0 0 18px #FF0000;
 }
 
@@ -87,5 +89,17 @@ h1 {
 
     h1 {
         font-size: 20px;
+        display: block;
+        width: 100vw;
+        text-align: center;
+    }
+
+    hr {
+        width: 100vw;
+        background-color: red;
+    }
+
+    .audiov audio {
+        background: none;
     }
 }
