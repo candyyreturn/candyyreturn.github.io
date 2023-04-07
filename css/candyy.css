@@ -82,6 +82,32 @@ h1 {
     text-shadow: 0 0 2px #FF0000, 0 0 4px #FF0000, 0 0 6px #FF0000, 0 0 8px #FF0000, 0 0 10px #FF0000, 0 0 12px #FF0000, 0 0 14px #FF0000, 0 0 16px #FF0000, 0 0 18px #FF0000;
 }
 
+/* Welcome */
+
+.hideme {
+    height: 100px;
+    width: 100px;
+    background-color: #c91e1e;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -40px;
+    right: -40px;
+}
+
+.hideme h3 {
+    color: white;
+    float: right;
+    font-size: 25px;
+    margin-top: 1.6em;
+    margin-right: 1em;
+    color: black;
+}
+
+/* Media Queries */
+
 @media screen and (max-width: 678px) {
     .bkcl {
         font-size: 18px;
@@ -101,5 +127,11 @@ h1 {
 
     .audiov audio {
         background: none;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .hideme {
+        display: none;
     }
 }
