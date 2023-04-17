@@ -1,0 +1,130 @@
+Doxeo de Spleatther Mhowse, el dueño de varios grupos en diferentes plataformas (telegram, discord, whatsapp), donde sube contenido ilegal (cp, snuff...)
+
+Este doxeo lo hago después de meses investigando y reuniendo información, él mismo se cree que yo soy su amigo. Este doxeo lo hago como denuncia pública porque creo que de esta manera se difundirá más rápido.
+
+Ubicación:
+  Argentina, Menzoza (AR)
+
+Supe que era de Argentina porque me agregó a contactos de telegram y dejó la opción de "compartir número" activada y después me dijo lo de las tarjetas sims. Además habla con palabras de uso común en Argentina.
+  
+IP Info:
+  IP: 138.117.19.110
+  Pool (DNS): 138-117-19-110.wiber.net.ar (hostname)
+  Route: 138.117.19.0/24 (real)
+  ASN: AS263793 (tipo isp)
+  Time Zone: America/Argentina/Mendoza
+  org: TECNET ARGENTINA S.A.
+
+Lo de su dirección IP es difícil de explicar pero voy a intentar resumirlo para que se pueda entender. En su banner de whatsapp tiene puesto el logo de tor, i2p y freenet pero la única red que usa es tor. En la red tor se usa un sistema de enrutamiento conocido como onion routing, el cual se divide en capas, tu conexión antes de llegar al servidor destino pasa por mínimo 3 nodos en los que se encripta la información, en cada salto se olvida el nodo anterior, esto hace que la red sea anónima y ha dado lugar a actividades ilegales dentro de ella.
+
+Para saltarse estos nodos hay tener control sobre los nodos de esa persona, pero yo hice que el siguiera un enrutamiento diferente para tomar el control de sus conexiones al navegar, no voy a enseñar el esquema completo pero aquí os dejo un resumen.
+
+En la red tor existen puentes en los que puedes predefinir por donde quieres que pase tu conexión, puedes usar puentes predeterminados como obsf4 o snowflake o puentes de la comunidad, en este caso lo que hice yo fue crear mi propio puente con un servidor en la nube, para usar el puente solo tienes que agregar una configuración simple a tu navegador tor.
+
+Es muy simple de configurar, le dije a Spleatther que para tener más seguridad usara puentes, le di una explicación y metió un puente que usaba mi servidor como nodo. A partir de aquí es muy fácil sacar su IP ya que tengo acceso a las cabeceras de petición (request headers), en las cuales se incluye host y referer, que contienen el dominio al que quiere ir (en este caso como atravesaba muchos nodos solo pude ver la ip del siguiente nodo) y su dirección IP real, para conseguirla tuve que registrar todo el tráfico de mi servidor de la nube (su nodo) y quité manualmente las direcciones que estaban registradas como nodos de tor, había muchos países pero el único que me interesaba era Argentina, el cual solo se repetía una vez y coincidió varias veces, acababa de encontrar su dirección IP.
+
+Esquema de puentes de tor:
+  Nombre IP:puerto Clave cert=Certificado iat-mode=0 (esto se puede repetir para que sean varios, normalmente se usan 2 o 3)
+
+
+Nombres:
+  Spleatther Mhowse
+  Dulphin Bijaim
+  Define Gotthy Jample
+  Savitch Barjack 
+  Spleatther Enterprise (Marketing)
+
+Cuentas de discord:
+  Spleatther Mhowse 🎯♟✓.#1319
+  Dulphin Bijaim 🐙🌊✓.#3673
+  Define Gotthy Jample#5533
+  Savitch Barjack 👁🗨🎴✓.#6680
+  Spleatther Enterprise 🏢🕶✓.#8769
+
+Número de teléfono real:
+  +54 2614677823 
+  Usa tarjetas sims que compra en su país, Argentina.
+
+Idiomas:
+  Inglés
+  Español
+
+Canales de telegram:
+  @splt_daysis_destruction (eliminado, aquí subió daisy's destruction)
+  @deep_web_project (eliminado)
+  @eight_channel (eliminado)
+  @Deep_Web_Project_DWP_spltm (eliminado)
+
+  Hizo varios más en los que vendía material ilegal, mixtapes como amber alert o el conocido daisy's destruction, no me dio tiempo a copiar el link.
+
+Cuentas de telegram:
+  @spleatther_enterprise_marketing
+  @spleatther_mhowse_04
+  @spltm_02
+
+Tiene más pero no tiene nombre de usuario:
+  id (6173741864), first name (Dulphin), last name (Bijaim)
+
+Cuenta de instagram:
+  https://www.instagram.com/eraloy_590
+
+Foto de su cuenta de instagram:
+  https://i.imgur.com/YRkpYug.png
+  
+Foto de su cara:
+ https://i.imgur.com/wJf9GSb.png
+
+Canal de youtube:
+  https://www.youtube.com/@eraloy5903/ Me dijo que actualmente no tiene acceso a esta cuenta, a las de discord perdió acceso, conseguí este canal a través de sus cuentas asociadas en discord. 
+  https://www.youtube.com/channel/UCI1gulzMD4uy8SRg9_DhRdg (alter)
+  https://www.youtube.com/@spleatthermhowse En esta cuenta comparte los enlaces a sus grupos, hay vídeos borrados.
+  https://www.youtube.com/@dulphinbijaim5229 Esta es su cuenta secundaria, esta cuenta y la anterior estaban suscritas a su canal principal (Eraloy590).
+ 
+Grupo de whatsapp:
+  https://chat.whatsapp.com/G1YmtszxUhFGCI7Kiia5xT
+  https://chat.whatsapp.com/DoWEq1FD1H87hrQznetlq0
+  https://chat.whatsapp.com/EXNzFW7rLdfBE6IyEaWsLH
+
+Estos grupos los conseguí porque él me dijo que necesitaba una página web y que como yo sabía hacerla necesitaba su ayuda.
+
+¿Cómo sabía él esto?, bueno, a lo largo de nuestras conversaciones dejé varias mentiras pasables, cómo por ejemplo que yo tengo una de las copias de Hurt2TheCore, cosa que no es verdad, lo que hice fue hacer una copia básica en html.
+
+Le dije esta página en concreto porque vi un directo (resubido) suyo en su canal principal de youtube (eraloy590) en el que enseñaba la versión 2022 de ese sitio, el vídeo sigue activo: https://www.youtube.com/watch?v=glONMMf-mzk, se puede ver como mete su nombre de usuario (Savitch Barjack) y su contraseña para después enseñar las diferentes secciones de dicho foro.
+
+Chat en directo de ese vídeo (no completo):
+  ERALOY 590 ✔: ​me van a funar pero disfruten xd
+  Jesus Brunet Marinaro: ​no sé ve cldo
+  ERALOY 590 ✔: ​esperen toque
+  ERALOY 590 ✔​: cuesta que se vea la pantalla
+  ERALOY 590 ✔​: listo funcionable
+
+Grupo de discord:
+  https://discord.gg/THKkaFvnZB (sigue activo, dura tanto porque tiene pocos miembros y por lo tanto tiene menos reportes)
+
+Después de toda la investigación que hice me di cuenta de que no tenía la suficiente información como para cerrar este caso (todo lo que está arriba de esto), así que hice una cosa que no puedo admitir en este texto ya que es ilegal aunque valió la pena.
+
+No puedo dar todos los detalles pero la cuestión es que pude instalar en su PC un RAT (remote administration tool), con esto pude sacarle toda su información para poder hacer una investigación más profunda.
+
+Todo esto lo hice junto a un compañero que me ayudó a controlar el RAT desde un lugar irrastreable (una VPS), además él fue el que escribió un correo pidiendo un rescate por sus datos. Me informó de esto después de hacerlo por lo que yo no pude hacer nada pero un mes después Spleatther Mhowse me envió las capturas del correo, aquí dejo más información sobre eso:
+
+Primer correo que envió:
+  Hola ! No me conoces pero te conozco muy bien estúpido pedófilo! Hace unos meses hackeé tu pc y descubrí muchas cosas interesantes sobre ti. ¿Te gusta hablar sobre pornografía infantil y ver esto en darkweb, verdad? Si no me crees, mira la captura de pantalla de tu PC que hice como archivo adjunto a principios de enero. Sería una pena que estas capturas de pantalla, así como sus contraseñas, se encuentren en manos de la policía y su familia, amigos, ... ¿verdad? Este no es un ataque de phishing masivo, sino un ataque dirigido a usted debido a sus actividades en la web oscura. Cómo evitar esto: Pague $ 3000 en criptomoneda (BTC o XMR o LTC) en esta dirección. DIRECCIÓN: btc: bc1q57l00g3l0tg3np4k6u9x3643vvg2wm25z6qq7e xmr: 4AwmKXS5rcZWh7y22E5cJENCSBvR89rwEJTC4Yd4PmQkDUrp2kx3wgM6QQGiZzvwYwTLoejd7Q8Pq1Q5xNnaTQuXRZ5E4yy ltc: ltc1qws7vu0caly9c4dtkc3jlengc2c2ptt75hdwd72 Si no sabe cómo comprar criptomonedas, consulte en Google, pero puede comprar en TrustWallet, Binance, KuCoin, Coinbase, OKX, ... Si no pagas, te denunciaré a la policía de tu país ya la policía internacional como (Europol, CIA, ...) y corres el riesgo de tener grandes problemas. También escribiré un doxbin sobre ti que publicaré en las redes sociales. ¿Necesitas contactarme? -Solo responderé en Tox (software gratuito, verifique en google, https://tox.chat), esta es mi identificación: 10704DBDDC7293DC5B02975FFF47F21EA403A1E8CB1B266B42F1E077B5CD3C0AD0EE057DC52E
+
+Como se puede ver pide un rescate de 3000$ por no denunciarle aunque él claramente sabía mis intenciones, yo inicié esto solamente para publicarlo y denunciarlo. En este correo pide el dinero en XMR o BTC (criptomonedas), además dice que solo va a responder a una cuenta (actualmente inactiva) de aTox, que es un chat parecido a tor chat.
+
+No tengo el contenido del correo real ya que la cuenta del remitente fue eliminada, pero tengo las capturas que spleatther me envió, además voy a dejar el correo por aquí: 
+  Nombre: breached yourlife
+  Dirección: breached.yourlife1@protonmail.com
+
+Este es uno de los correos que le envió (no el primero):
+  https://i.imgur.com/bmFFjaR.png
+
+En él, mi compañero dejó claras sus intenciones, además de dejar pruebas de el acceso a su PC y a sus cuentas, todas esas cuentas fueron sacadas de un password export de su navegador (chrome).
+  
+Y este es el primero:
+  https://i.imgur.com/Mv1yARs.png
+
+En todo este tiempo que estuve hablando con él me pidió y envió varias veces contenido ilegal, este contenido era en su mayoría sacado de la deepweb, en concreto de un foro de tipo chan que usaba las mismas tecnologías que 4chan, este foro contiene secciones como  /rape que tiene contenido de violaciones o /gore que tiene contenido sangriento en su mayoría de menores sin vida. Esas eran las categorías más visitadas pero también había muchas con contenido ilegal de menores, al final del foro estaba el contenido zoo que es material gore de animales.
+
+En ese foro se usaba el cifrado pedocrypt para los enlaces, el cual fue creado por los dueños de un foro llamado amorzinho (otro foro de cp), también usaban una marketplace llamada tabularis para compartir los archivos, ahí podías subir archivos sin límites legales y ponerles precio para después depositarlos en una wallet XMR.
+
